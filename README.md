@@ -22,13 +22,7 @@
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="50" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  </a>
+
 </p>
 
 <h3 align="left">✨ Sobre mí:</h3>
