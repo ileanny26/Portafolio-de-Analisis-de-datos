@@ -23,11 +23,5 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Python" width="50" height="50"/>
 
-</p>
 
-<h3 align="left">✨ Sobre mí:</h3>
-<p align="left">
-Soy una **Analista de Datos con estilo**, apasionada por transformar números en historias visuales. Me encanta crear dashboards que no solo sean útiles, sino también **bonitos y claros**, ayudando a que las decisiones sean más fáciles y estratégicas.  
-📊 Siempre busco aprender nuevas herramientas, mejorar mis dashboards y añadir un toque creativo a todo lo que hago. 🎀
-</p>
 
